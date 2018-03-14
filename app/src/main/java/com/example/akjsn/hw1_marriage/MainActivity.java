@@ -44,15 +44,13 @@ public class MainActivity extends AppCompatActivity {
                     strSug += getString(R.string.sug_get_marry);
                 else
                     strSug += getString(R.string.sug_find_couple);
-            else if (strSex.equals(getString(R.string.sex_female)))
+            else
                 if (iAge < 28)
                     strSug += getString(R.string.sug_not_hurry);
                 else if (iAge > 32)
                     strSug += getString(R.string.sug_get_marry);
                 else
                     strSug += getString(R.string.sug_find_couple);
-            else
-                strSug += getString(R.string.sug_error);
             mTextR.setText(strSug);
 
 

@@ -1,15 +1,15 @@
 <resources>
     <string name="app_name">Marriage Suggestions</string>
-    <string name="sex">Sex</string>
-    <string name="sexinput_hint">Please Input Your Sex</string>
+    <string name="sex">Gender</string>
+    <string name="sexinput_hint">Please Input Your Gender</string>
     <string name="age">Age (in years)</string>
     <string name="ageinput_hint">How old are you?</string>
     <string name="execute">Get Your Marriage Suggestion</string>
-    <string name="sug_not_hurry">Don't rush, take your time...</string>
-    <string name="result">Suggestion: </string>
+    <string name="sug_not_hurry">"Don't rush, take your time..."</string>
+    <string name="result">"Suggestion: "</string>
     <string name="sug_get_marry">You should get married quickly!</string>
     <string name="sug_find_couple">You should find a partner!</string>
-    <string name="sug_error">We don't understand the gender you input, please try again...</string>
+    <string name="sug_error">"We don't understand the gender you input, please try again..."</string>
     <string name="sex_male">Male</string>
     <string name="sex_female">Female</string>
 </resources>
