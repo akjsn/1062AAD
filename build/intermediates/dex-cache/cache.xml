@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\ASUS ROG\Desktop\NTUT\106-2\AAD\hw4-2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="C:\Users\ASUS ROG\Desktop\NTUT\106-2\AAD\hw4-2\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-26.1.0_a1f9c630d4de5aa5c66b587133590df626832434.jar" />
+    </item>
+    <item
+        jar="C:\Users\ASUS ROG\Desktop\NTUT\106-2\AAD\hw4-2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="C:\Users\ASUS ROG\Desktop\NTUT\106-2\AAD\hw4-2\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-26.1.0_8bda524ccd9a6d988e9310a8e1cf7bb6670f650a.jar" />
+    </item>
+    <item
+        jar="C:\Users\ASUS ROG\Desktop\NTUT\106-2\AAD\hw4-2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="C:\Users\ASUS ROG\Desktop\NTUT\106-2\AAD\hw4-2\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-26.1.0_c7d5032c5b7ece4d6accf4b6793b681ed35a641c.jar" />
+    </item>
+    <item
+        jar="C:\Users\ASUS ROG\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="C:\Users\ASUS ROG\Desktop\NTUT\106-2\AAD\hw4-2\app\build\intermediates\pre-dexed\debug\support-annotations-26.1.0_553aa153537de82694846070fab2792a3df3952d.jar" />
+    </item>
+    <item
+        jar="C:\Users\ASUS ROG\Desktop\NTUT\106-2\AAD\hw4-2\app\build\intermediates\exploded-aar\android.arch.lifecycle\runtime\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="C:\Users\ASUS ROG\Desktop\NTUT\106-2\AAD\hw4-2\app\build\intermediates\pre-dexed\debug\android.arch.lifecycle-runtime-1.0.0_da7d2bd4ffc5c62444d72a38751a161b385b9504.jar" />
+    </item>
+    <item
+        jar="C:\Users\ASUS ROG\Desktop\NTUT\106-2\AAD\hw4-2\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\ASUS ROG\Desktop\NTUT\106-2\AAD\hw4-2\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-26.1.0_2e1e1b1cc4cc142a5233ebdb0728ec35473c3d13.jar" />
+    </item>
+    <item
+        jar="C:\Users\ASUS ROG\Desktop\NTUT\106-2\AAD\hw4-2\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="C:\Users\ASUS ROG\Desktop\NTUT\106-2\AAD\hw4-2\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-26.1.0_6fac168d1244d53e82d93e29cf195ff7c61c87fc.jar" />
+    </item>
+    <item
+        jar="C:\Users\ASUS ROG\Desktop\NTUT\106-2\AAD\hw4-2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="C:\Users\ASUS ROG\Desktop\NTUT\106-2\AAD\hw4-2\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-26.1.0_0ca65fc5d96b8e6dd70a662a6b38c8f5de9fcb56.jar" />
+    </item>
+    <item
+        jar="C:\Users\ASUS ROG\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="C:\Users\ASUS ROG\Desktop\NTUT\106-2\AAD\hw4-2\app\build\intermediates\pre-dexed\debug\common-1.0.0_5a2d1f735490fc89b937665ccc77fcf6ff04219c.jar" />
+    </item>
+    <item
+        jar="C:\Users\ASUS ROG\Desktop\NTUT\106-2\AAD\hw4-2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="C:\Users\ASUS ROG\Desktop\NTUT\106-2\AAD\hw4-2\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-26.1.0_e3310beebbd0d23fd95fe57e7860afe77e0fcc1d.jar" />
+    </item>
+    <item
+        jar="C:\Users\ASUS ROG\Desktop\NTUT\106-2\AAD\hw4-2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="C:\Users\ASUS ROG\Desktop\NTUT\106-2\AAD\hw4-2\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-26.1.0_c8ee3161ca3ac76660d516a7b78e4b20b661bf27.jar" />
+    </item>
+    <item
+        jar="C:\Users\ASUS ROG\Desktop\NTUT\106-2\AAD\hw4-2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="C:\Users\ASUS ROG\Desktop\NTUT\106-2\AAD\hw4-2\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-26.1.0_ed6f8f0bc9ad73248b2aa66a4beca18480ba6cc7.jar" />
+    </item>
+    <item
+        jar="C:\Users\ASUS ROG\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="C:\Users\ASUS ROG\Desktop\NTUT\106-2\AAD\hw4-2\app\build\intermediates\pre-dexed\debug\common-1.0.0_951dc5d11c387e0c974a666acf6d3a2f287da07d.jar" />
+    </item>
+
+</items>
